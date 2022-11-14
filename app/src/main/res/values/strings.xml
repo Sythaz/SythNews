@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SythNews</string>
+    <string name="judul_berita">Judul Berita</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="sythnews">SythNews</string>
+    <string name="berita_terkini">Berita Terkini</string>
+    <string name="catatan_pribadi">Catatan Pribadi</string>
+    <string name="note_date">Date</string>
+    <string name="note_judul">Judul</string>
+    <string name="note_deskripsi">Deskripsi</string>
+    <string name="note_link">Opsional</string>
+    <string name="delete">Delete</string>
+    <string name="simpan">Simpan</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="link">Link (Opsional)</string>
+    <string name="submit">Kirim</string>
+
+
+
+    <string name="date">Date</string>
+    <string name="cancel">Batal</string>
+    <string name="empty">Field can not be blank</string>
+    <string name="update">Update</string>
+    <string name="change">Ubah</string>
+    <string name="add">Tambah</string>
+    <string name="save">Simpan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="message_cancel">Apakah anda ingin membatalkan perubahan pada form?</string>
+    <string name="message_delete">Apakah anda yakin ingin menghapus item ini?</string>
+    <string name="message_simpan">Apakah anda yakin ingin menyimpan item ini?</string>
+    <string name="added">Satu item berhasil ditambahkan</string>
+    <string name="changed">Satu item berhasil diubah</string>
+    <string name="deleted">Satu item berhasil dihapus</string>
+    <string name="tersimpan">Satu item berhasil dihapus</string>
+    <string name="updated_date">Updated Date</string>
+    <string name="jejak">by\nMuhammad Syafiq Aldiansyah</string>
+</resources>
